@@ -79,3 +79,5 @@ Desktop.ini
 *.jar.original
 pom.properties
 release.properties
+
+pom.xml.releaseBackup
